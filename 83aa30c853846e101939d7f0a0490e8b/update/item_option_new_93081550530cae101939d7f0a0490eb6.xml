@@ -42,15 +42,15 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>choose_quantity</name>
+        <name>total_amount</name>
         <not_available_conversation>false</not_available_conversation>
-        <order>400</order>
+        <order>450</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Choose Quantity</question_text>
-        <read_only>false</read_only>
+        <question_text>Total Amount</question_text>
+        <read_only>true</read_only>
         <read_roles/>
         <read_script/>
         <rec_lookup_price/>
@@ -77,16 +77,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-02-26 20:52:14</sys_created_on>
-        <sys_id>c3d905dc5388ae101939d7f0a0490eed</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Choose Quantity</sys_name>
-        <sys_package/>
+        <sys_created_on>2025-02-26 21:54:00</sys_created_on>
+        <sys_id>93081550530cae101939d7f0a0490eb6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Total Amount</sys_name>
+        <sys_package display_value="Practice Company" source="x_1598798_practice">83aa30c853846e101939d7f0a0490e8b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Practice Company">83aa30c853846e101939d7f0a0490e8b</sys_scope>
-        <sys_update_name>item_option_new_c3d905dc5388ae101939d7f0a0490eed</sys_update_name>
+        <sys_update_name>item_option_new_93081550530cae101939d7f0a0490eb6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-26 22:10:31</sys_updated_on>
+        <sys_updated_on>2025-02-26 21:54:56</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
@@ -106,22 +106,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=c3d905dc5388ae101939d7f0a0490eed"/>
-    <fx_price action="delete_multiple" query="id=c3d905dc5388ae101939d7f0a0490eed"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=93081550530cae101939d7f0a0490eb6"/>
+    <fx_price action="delete_multiple" query="id=93081550530cae101939d7f0a0490eb6"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>c3d905dc5388ae101939d7f0a0490eed</id>
+        <id>93081550530cae101939d7f0a0490eb6</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-02-26 20:52:14</sys_created_on>
-        <sys_id>7a1a49dc5388ae101939d7f0a0490e90</sys_id>
+        <sys_created_on>2025-02-26 21:54:01</sys_created_on>
+        <sys_id>6b381950530cae101939d7f0a0490e63</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-26 20:52:14</sys_updated_on>
+        <sys_updated_on>2025-02-26 21:54:01</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -129,16 +129,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>c3d905dc5388ae101939d7f0a0490eed</id>
+        <id>93081550530cae101939d7f0a0490eb6</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-02-26 20:52:14</sys_created_on>
-        <sys_id>2e1a49dc5388ae101939d7f0a0490e8f</sys_id>
+        <sys_created_on>2025-02-26 21:54:01</sys_created_on>
+        <sys_id>6b381950530cae101939d7f0a0490e62</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-26 20:52:14</sys_updated_on>
+        <sys_updated_on>2025-02-26 21:54:01</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
