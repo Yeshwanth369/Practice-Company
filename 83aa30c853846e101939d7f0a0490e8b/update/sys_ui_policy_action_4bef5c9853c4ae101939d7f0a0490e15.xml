@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>business_requirement</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-26 17:48:21</sys_created_on>
+        <sys_id>4bef5c9853c4ae101939d7f0a0490e15</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>business_requirement</sys_name>
+        <sys_package display_value="Practice Company" source="x_1598798_practice">83aa30c853846e101939d7f0a0490e8b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Practice Company">83aa30c853846e101939d7f0a0490e8b</sys_scope>
+        <sys_update_name>sys_ui_policy_action_4bef5c9853c4ae101939d7f0a0490e15</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-26 17:48:21</sys_updated_on>
+        <table>x_1598798_practice_device_request</table>
+        <ui_policy display_value="Mandatory Business Justification Field.">99cd9cd453c4ae101939d7f0a0490eea</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=4bef5c9853c4ae101939d7f0a0490e15"/>
+</record_update>
