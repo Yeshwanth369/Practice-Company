@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="INSERT_OR_UPDATE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value>1</default_value>
+        <default_value_override>true</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>state</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_1598798_practice_device_request</name>
+        <read_only>false</read_only>
+        <read_only_override>false</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-26 03:18:06</sys_created_on>
+        <sys_id>59d8dd0053486e101939d7f0a0490ea5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="Practice Company" source="x_1598798_practice">83aa30c853846e101939d7f0a0490e8b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Practice Company">83aa30c853846e101939d7f0a0490e8b</sys_scope>
+        <sys_update_name>sys_dictionary_override_59d8dd0053486e101939d7f0a0490ea5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-26 03:22:30</sys_updated_on>
+    </sys_dictionary_override>
+</record_update>

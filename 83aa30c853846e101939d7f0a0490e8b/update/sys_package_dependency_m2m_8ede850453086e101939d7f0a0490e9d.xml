@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Configuration Management (CMDB)" source="com.snc.cmdb">32415320dc5212104f34465061b06a2d</dependency>
+        <min_version>1.1</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-26 02:34:29</sys_created_on>
+        <sys_id>8ede850453086e101939d7f0a0490e9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Practice Company" source="x_1598798_practice">83aa30c853846e101939d7f0a0490e8b</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-26 02:34:29</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
