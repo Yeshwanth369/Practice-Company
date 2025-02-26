@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1598798_practice.dispatch_management" name="x_1598798_practice.dispatch_management">624bf88853846e101939d7f0a0490ee7</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-26 01:09:02</sys_created_on>
+        <sys_id>e64bf88853846e101939d7f0a0490ee8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>624bf88853846e101939d7f0a0490ee7</sys_name>
+        <sys_package display_value="Practice Company" source="x_1598798_practice">83aa30c853846e101939d7f0a0490e8b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Practice Company">83aa30c853846e101939d7f0a0490e8b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e64bf88853846e101939d7f0a0490ee8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-26 01:09:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

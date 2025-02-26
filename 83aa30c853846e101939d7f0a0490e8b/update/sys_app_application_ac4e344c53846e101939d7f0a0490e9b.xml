@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Order Management and Process Delivery</description>
+        <device_type>browser</device_type>
+        <hint>Order Management and Process Delivery</hint>
+        <name/>
+        <order/>
+        <roles>x_1598798_practice.device_management,x_1598798_practice.dispatch_management,x_1598798_practice.release_management,x_1598798_practice.end_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-26 01:22:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ac4e344c53846e101939d7f0a0490e9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Practice Company</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Practice Company" source="x_1598798_practice">83aa30c853846e101939d7f0a0490e8b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Practice Company">83aa30c853846e101939d7f0a0490e8b</sys_scope>
+        <sys_update_name>sys_app_application_ac4e344c53846e101939d7f0a0490e9b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-26 01:22:00</sys_updated_on>
+        <title>Practice Company</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
