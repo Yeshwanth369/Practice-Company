@@ -72,5 +72,24 @@
             <sys_updated_on>2025-02-26 03:22:30</sys_updated_on>
             <value>3</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Delivery Canceled</label>
+            <language>en</language>
+            <name>x_1598798_practice_device_request</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-27 17:59:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-27 17:59:12</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
     </sys_choice>
 </record_update>
