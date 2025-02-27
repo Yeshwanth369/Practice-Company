@@ -15,6 +15,13 @@
    if(g_form.getvalue('u_reference_1'=='')){
    g_form.setSectionDisplay("device_details",false);
    g_form.setSectionDisplay('delivery_details',false);
+   }else{
+		g_form.getReference('u_reference_1',getDetails);
+		
+		g_form.setValue('u_device_model', details.model_number);
+		g_form.setValue('u_price', details.u_price_2);
+		g_form.setValue('u_device_description', details.short_description);
+		g_form.setValue('u_warranty', details.warranty_expiration);
    }
    
 }]]></script>
@@ -24,7 +31,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ad916c1c53c4ae101939d7f0a0490eb4</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Hidding the Device details section</sys_name>
         <sys_overrides/>
         <sys_package display_value="Practice Company" source="x_1598798_practice">83aa30c853846e101939d7f0a0490e8b</sys_package>
@@ -32,7 +39,7 @@
         <sys_scope display_value="Practice Company">83aa30c853846e101939d7f0a0490e8b</sys_scope>
         <sys_update_name>sys_script_client_ad916c1c53c4ae101939d7f0a0490eb4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-26 18:42:19</sys_updated_on>
+        <sys_updated_on>2025-02-27 00:06:19</sys_updated_on>
         <table>x_1598798_practice_device_request</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>
